@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/katyabilous/Documents/АП/Lab2/LAB_02"
+relocations:     []
+...
