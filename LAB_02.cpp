@@ -19,8 +19,8 @@ int main() {
 
   cout << "alpha = "; cin >> alpha;
   
-  //z1 = cos(alpha) + sin(alpha) + cos(3 * alpha) + sin(3 * alpha);
-  //z2 = 2 * sqrt(2) * cos(alpha) * sin(Pi / 4 + 2 * alpha);
+  z1 = cos(alpha) + sin(alpha) + cos(3 * alpha) + sin(3 * alpha);
+  z2 = 2 * sqrt(2) * cos(alpha) * sin(Pi / 4 + 2 * alpha);
 
   cout << endl;
   cout << "z1 = " << z1 << endl; //виведення результату першого обрахунку
